@@ -1,0 +1,28 @@
+895303406627-qaepspedhee2imvq6foliupreqsf7lv1.apps.googleusercontent.com
+
+X7jO4oYqICgN5CFxQNuHSJa-
+
+arecord -D plughw:1,0 -V mono -r 16000 -f S16_LE -d 5 /root/test2.wav
+
+acsii¡Ghttp://www.atool.org/chinese2unicode.php
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/chin/Beagle/4e27f382f6fc.json"
+export GOOGLE_APPLICATION_CREDENTIALS="/root/4e27f382f6fc.json"
+
+python 42.py
+
+{"results": [{"alternatives": [{"confidence": 0.9705752, "transcript": "\u5e0c\u671b\u4e0d\u8981\u518d\u51fa\u4efb\u4f55\u5dee\u932f\u4e86\u5475\u5475\u5475\u5475\u5475"}]}]}
+
+
+bbb:~$ sudo apt-get update
+bbb:~$ sudo apt-get upgrade
+
+sudo connmanctl
+scan wifi
+services
+agent on
+connect wifi_506583d4fc5e_544e434150413937414239_managed_psk
+quit
+
+
+https://elinux.org/Beagleboard:BeagleBoneBlack_Debian
